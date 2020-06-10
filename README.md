@@ -1,10 +1,9 @@
-# Projects
-Some projects I've done during high school.
+# hs-projects
+Various files and projects done within ICS3U & 4U
 
 Directory:
 - Algorithms
-    - a couple more advanced algorithms explored in ICS4U
-    - contains foundation concepts of LinkedLists and Stacks (including postfix & infix expressions)
+    - foundational concepts of linked lists, stacks, queues, exploring algorithms involving postfix + infix 
 - Final Hangman code: hangman/src/ISU.java
     - the summative project in ICS3U
 - Robotics
